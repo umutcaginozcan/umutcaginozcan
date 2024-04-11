@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @umutcaginozcan
-- 👀 I’m interested in music and computers.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
-- I am a freshman in Bilkent University Computer Science department.
+I'm Umut.
+currently studying at Bilkent University Computer Science department.
